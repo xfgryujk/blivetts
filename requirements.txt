@@ -1,0 +1,2 @@
+pyttsx3==2.7
+translate==3.5
